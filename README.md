@@ -3,7 +3,7 @@ This project provides a comprehensive analysis of the Secured Overnight Financin
 
 ### What is SOFR?
 
-The **Secured Overnight Financing Rate (SOFR)** is a benchmark interest rate that represents the cost of borrowing cash overnight, secured by U.S. Treasury securities[1]. It is calculated as a volume-weighted median of transaction-level data from the Treasury repurchase (repo) market.
+The **Secured Overnight Financing Rate (SOFR)** is a benchmark interest rate that represents the cost of borrowing cash overnight, secured by U.S. Treasury securities. It is calculated as a volume-weighted median of transaction-level data from the Treasury repurchase (repo) market.
 
 SOFR is a broad measure of the cost of borrowing cash overnight collateralized by Treasury securities. It is published by the Federal Reserve Bank of New York and is intended to be a replacement for the London Interbank Offered Rate (LIBOR).
 
@@ -47,7 +47,10 @@ A Long Short-Term Memory (LSTM) based neural network was constructed to capture 
 *   An **LSTM layer** processes the historical sequence of SOFR rates.
 *   A **Dense layer** processes static exogenous features for the current day.
 *   These two branches are merged using a **Concatenate** layer.
-*   The final output is produced by subsequent Dense layers[4].
+*   The final output is produced by subsequent Dense layers.
+
+  <img width="1670" height="862" alt="image" src="https://github.com/user-attachments/assets/3d960057-7a96-422c-946b-ed3eba677478" />
+
 
 **Performance Metrics**:
 The model was trained and evaluated, yielding the following performance on the validation and test sets:
