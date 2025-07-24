@@ -25,6 +25,12 @@ The SOFR Fix time series exhibits several notable seasonal patterns and event-dr
     *   **FOMC Meetings**: Federal Open Market Committee meetings can introduce slight volatility as the market anticipates potential policy changes.
     *   **Market Stress**: Sharp spikes, like the one in March 2020, often correspond to broader market stress and liquidity shortages.
 
+<img width="1600" height="600" alt="event" src="https://github.com/user-attachments/assets/6f638909-da01-4f1a-9a32-37198720ce24" />
+
+<img width="640" height="480" alt="Seasonality" src="https://github.com/user-attachments/assets/32e89ad1-95ed-48e4-a114-cedc4861fd27" />
+
+
+
 ### Forecasting SOFR
 
 Two primary models were developed to forecast the SOFR Fix rate: an XGBoost model and a Neural Network model.
