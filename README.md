@@ -23,7 +23,7 @@ The SOFR Fix time series exhibits several notable seasonal patterns and event-dr
 *   **Event-Driven Volatility**:
     *   **U.S. Tax Day**: The SOFR can spike around April 15, likely due to large liquidity outflows for tax payments.
     *   **FOMC Meetings**: Federal Open Market Committee meetings can introduce slight volatility as the market anticipates potential policy changes.
-    *   **Market Stress**: Sharp spikes, like the one in March 2020, often correspond to broader market stress and liquidity shortages.
+    *   **Market Stress**: Sharp spikes, like the one in March 2020, often correspond to broader market stress and liquidity shortages..
 
 <img width="1600" height="600" alt="event" src="https://github.com/user-attachments/assets/6f638909-da01-4f1a-9a32-37198720ce24" />
 
