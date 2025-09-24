@@ -69,3 +69,5 @@ The model was trained and evaluated, yielding the following performance on the v
 | **R-squared (R²)** | 0.7854 | 0.9631 |
 
 The high R² value on the test set indicates a strong predictive capability, demonstrating the model's effectiveness in forecasting the SOFR Fix.
+
+Thank you!
