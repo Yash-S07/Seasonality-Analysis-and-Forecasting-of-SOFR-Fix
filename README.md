@@ -1,4 +1,4 @@
-# Seasonality-Analysis-and-Forecasting-of-SOFR-Fix
+# Seasonality Analysis and Forecasting of SOFR-Fix
 This project provides a comprehensive analysis of the Secured Overnight Financing Rate (SOFR), including an examination of its seasonal patterns and the development of forecasting models.
 
 ### What is SOFR?
